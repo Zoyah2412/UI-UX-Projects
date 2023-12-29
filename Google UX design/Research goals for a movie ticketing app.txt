@@ -1,0 +1,52 @@
+Research goals for a movie ticketing app could include:
+
+1. User Behavior Analysis: Understand how users interact with the app. This includes studying the most used features, time spent on the app, and user navigation patterns.
+
+2. Market Analysis: Identify the key competitors in the market and analyze their features, pricing, and user reviews to understand their strengths and weaknesses.
+
+3. User Demographics: Gather data on the age, gender, location, and movie preferences of your users to tailor the app's features and marketing strategies.
+
+4. Feature Validation: Test new features or changes in a controlled environment before a full-scale rollout. This could involve A/B testing to compare different versions of a feature.
+
+5. Customer Satisfaction: Use surveys and feedback forms to measure customer satisfaction and identify areas for improvement.
+
+The target audience for a mobile ticketing app can be quite diverse, but generally, it would include:
+
+1. Movie Enthusiasts: Individuals who frequently go to the movies and value the convenience of purchasing tickets in advance.
+
+2. Tech-Savvy Users: People who are comfortable using technology and prefer digital transactions over traditional methods.
+
+3. Busy Professionals: Those who don't have the time to physically buy tickets and would prefer to do it on-the-go or from the comfort of their home or office.
+
+4. Deal Seekers: Users who are looking for discounts, special offers, and loyalty rewards that are often available through such apps.
+
+5. Planners: People who like to plan their outings in advance. They would appreciate features like seat selection, reminders, and calendar integrations.
+
+6. Cinema Chains & Independent Theaters: These businesses can use the app as a platform to reach more customers, promote their screenings, and offer exclusive deals.
+
+Interview questions aligned with your research goals:
+
+**User Behavior Analysis**
+1. How often do you use our app?
+2. What features do you use the most?
+3. Can you describe your typical journey when using our app?
+
+**Market Analysis**
+1. What other movie ticketing apps have you used?
+2. What features do you like/dislike in those apps?
+3. How does our app compare to these other apps in terms of ease of use, features, and overall experience?
+
+**User Demographics**
+1. Can you tell me a bit about yourself? (age, occupation, location)
+2. What types of movies do you usually watch?
+3. How often do you go to the movies?
+
+**Feature Validation**
+1. We are thinking of introducing [new feature]. How useful would this be for you?
+2. Can you provide feedback on [new feature]?
+3. Would [new feature] make you use the app more often?
+
+**Customer Satisfaction**
+1. On a scale of 1-10, how satisfied are you with our app?
+2. What do you like most about our app?
+3. What improvements would you suggest for our app? 
